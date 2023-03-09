@@ -1,8 +1,0 @@
-   0 cd /bin
-   1 nano fullscript.sh
-   2 chmod 744 fullscript.sh
-   3 fullscript.sh
-   4 nano fullscript.sh
-   5 fullscript.sh
-   6 export_file fullscript.sh
-   7 history > history.txt
